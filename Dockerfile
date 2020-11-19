@@ -5,6 +5,7 @@ RUN mkdir -p /server
 WORKDIR /server
 ADD . /server
 RUN npm install
+RUN npm test
 
 ENV NODE_ENV development
 
