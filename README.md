@@ -12,7 +12,7 @@ cd docker-jekins-express
 ### Run
 
 ```
-# 도커 레포지토리에 로그인(이미지가 private일 때)
+# 도커 레포지토리에 로그인( 이미지가 private일 때 )
 sudo docker login
 # 이미지 다운로드
 sudo docker pull jangky000/docker-jekins-express
