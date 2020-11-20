@@ -18,3 +18,6 @@ sudo docker login
 sudo docker pull jangky000/docker-jekins-express
 docker run -d -p 3000:3000 jangky000/docker-jekins-express
 ```
+
+### wiki
+[https://github.com/jangky000/docker-jekins-express/wiki](https://github.com/jangky000/docker-jekins-express/wiki)
